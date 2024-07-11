@@ -1,4 +1,4 @@
-# **FSL Dictionary App**
+# **FSL Dictionary App** ![‎ ⎚-⎚‎ ‎ ](https://img.shields.io/badge/%E2%80%8E_THIS_HAS_A_BAD_CODING_STRUCTURE,_I_AM_SORRY_%F0%9F%98%AD-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 
 ## **Welcome!**
 
